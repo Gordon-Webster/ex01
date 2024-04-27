@@ -1,3 +1,2 @@
-this is ai web class
+this is an ai web class
 we are learning repo
-test test test
