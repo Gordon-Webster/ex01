@@ -1,1 +1,2 @@
-print('Hihi')
+if True:
+    print('Hihi')
